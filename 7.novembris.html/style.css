@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    box-sizing: border-box; 
+ }
+ 
+ .tiktok{
+     background-color: rgba(225, 44, 85, 1);
+
+     color:red
+ }
